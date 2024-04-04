@@ -1,0 +1,4 @@
+04-03-2024	12:45:31 	 434dbfc5-c5a0-4c2e-8316-308bd002d82c 	 Error Not allowed by CORS 
+04-03-2024	12:45:31 	 73cb80ad-e530-4001-a55a-a7bb3729e42e 	 Error Not allowed by CORS 
+04-03-2024	12:46:21 	 b6155e9a-97ba-44cb-ac15-a59be80d8de2 	 https://www.google.com / Error Not allowed by CORS 
+04-03-2024	12:46:21 	 1cc2bb27-2607-4b96-9029-7a3c758cf0d4 	 https://www.google.com / Error Not allowed by CORS 
