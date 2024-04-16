@@ -1,0 +1,5 @@
+Re1kfZ0KH0tga9m6
+
+mongodb+srv://manojmuvva90:Re1kfZ0KH0tga9m6@cluster0.xu2nkeo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+mongodb+srv://manojmuvva90:<password>@cluster0.xu2nkeo.mongodb.net/
