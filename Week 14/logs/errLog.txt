@@ -1,0 +1,5 @@
+04-05-2023 	 10:57:10 	 7bcf96b7-51b4-4a45-b274-753ade4f26df 	 Error Not allowed by CORS 
+04-05-2023 	 10:57:11 	 d9dd1290-e7ab-4f8e-b7c5-6a258ed05844 	 Error Not allowed by CORS 
+04-08-2024 	 11:33:36 	 9bf6eebd-3e0b-4c38-82a1-54a8731c6e7e 	 TypeError Cannot read properties of undefined (reading 'id') 
+04-08-2024 	 11:37:20 	 2ecc0f34-e08c-48ef-84e5-6140381fc665 	 TypeError unsortedArray is not a function 
+04-15-2024 	 12:36:35 	 096a5a9f-5356-4ae5-b4d2-897f7a34edce 	 SyntaxError Expected double-quoted property name in JSON at position 60 
